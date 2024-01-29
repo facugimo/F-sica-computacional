@@ -1,2 +1,2 @@
-# F-sica-computacional
+# Física-computacional
 Prácticas de física computacional en fortran
