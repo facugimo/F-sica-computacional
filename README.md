@@ -1,2 +1,3 @@
 # Física-computacional
-Prácticas de física computacional en fortran
+Deliverables for the **Física computacional (Computational physics)** course of the **Physics** degree by **Universidad de Barcelona (UB)**.
+*Coments in catalan*.
